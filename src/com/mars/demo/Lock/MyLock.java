@@ -7,7 +7,7 @@ import java.util.concurrent.locks.ReentrantLock;
  * @Email 13673180154@163.com
  * @Date 2018/12/26
  */
-public class MyLock {
+public class MyLock extends Call{
 
     public static void main(String[] args) {
 
